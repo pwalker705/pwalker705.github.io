@@ -1,5 +1,3 @@
 # Hello, World!
 
-I've just published my first GitHub Pages site!
-
-I hope to get things looking better and I can share some cool content.
+This is the GitHub page where I host my personal website. It is a big work in progress, but it's all a learning process!
