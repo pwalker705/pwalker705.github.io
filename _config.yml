@@ -16,8 +16,8 @@
 theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Paul Walker's Website"
+description: "Data Science and everything else"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -74,6 +74,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-include-cache
 
 # Front Matter Defaults
 defaults:
@@ -90,7 +91,7 @@ author:
   name:
   picture:
   email: 
-  twitter: '@paul_r_walker'
+  twitter: "@paul_r_walker"
   links:
     - title:
       url:
