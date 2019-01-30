@@ -1,21 +1,16 @@
-# Sample site navigation bar links
+# Site navigation links
 
-- title: Home
-  url: https://www.datapaul.com/
+- title: About
+  url: /about/
 
-- title: Posts
-  url: /posts/
+- title: Articles
+  url: /articles/
 
-#- title: About Me
-#  url: /aboutme/
-#   url: /
-# - title: Categories
-#   url: /categories/
-# - title: Tags
-#   url: /tags/
-#- title: Recipes
-#  url: /recipes/
-# - title: Search
-#  url: /search/
-# - title: External Page
-#   url: https://the-page.com/you-want-to-link-to.html
+- title: Blog
+  url: /blog/
+
+- title: Theme Setup
+  url: /theme-setup/
+
+- title: Search
+  url: /search/
