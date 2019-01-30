@@ -6,8 +6,8 @@
 - title: Posts
   url: /posts/
 
-#- title: About Me
-#  url: /aboutme/
+- title: About Me
+  url: /aboutme/
 #   url: /
 # - title: Categories
 #   url: /categories/
@@ -15,7 +15,7 @@
 #   url: /tags/
 #- title: Recipes
 #  url: /recipes/
-# - title: Search
-#   url: /search/
+ - title: Search
+   url: /search/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html
